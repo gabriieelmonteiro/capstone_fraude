@@ -1,0 +1,4 @@
+# Virtual enviroments
+.venv
+/1.data
+!1.data/2.processed/.gitkeep
